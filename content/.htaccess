@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Harezmi_Protected_Site"
+Require valid-user
+AuthUserFile "/home/ksevindik/.htpasswds/public_html/docs_cd/passwd"
